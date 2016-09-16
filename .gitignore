@@ -1,0 +1,4 @@
+generate.c
+*.o
+test
+*.old
